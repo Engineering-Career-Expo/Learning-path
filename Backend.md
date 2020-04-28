@@ -2,7 +2,8 @@
 
 Backend
 
------------- Version control systems/repo hosting services ------------
+------------ Version control systems/repo hosting services -------------
+
 
 --> Books & Documentation
 Pro Git By Scott Chacon, Ben Straub
@@ -32,6 +33,7 @@ https://www.git-tower.com/blog/on-premise-git-code-hosting/
 
 
 ------------ Databases (Relational and NoSQL) -----------
+
 
 --> Books & Documentation
 “AN ILLUSTRATED GUIDE TO THE SQL SELF-JOIN” BY DOROTA WDZIĘCZNA
@@ -65,7 +67,9 @@ https://www.udacity.com/course/intro-to-relational-databases--ud197
 https://www.datacamp.com/community/tutorials/beginners-introduction-postgresql
 https://codeburst.io/redis-what-and-why-d52b6829813
 
+
 --------------- Design and Development Principles ----------------
+
 
 --> Books and Documentation
 Head First Design Patterns By Eric Freeman, Elisabeth Freeman, Bert Bates, Kathy Sierra
@@ -99,7 +103,9 @@ https://www.edx.org/course/software-construction-object-oriented-design?source=a
 
 --> Others
 
+
 -------------- Websockets, Web servers, Docker ---------------
+
 
 --> Books & Documentation
 Wireless Communications and Networks - William Stallings
