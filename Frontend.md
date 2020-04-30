@@ -65,4 +65,26 @@ https://www.slant.co/options/13313/alternatives/~github-pages-alternatives
 
 1. https://frontendmasters.com/courses/client-graphql-react/
 2. https://www.apollographql.com/docs/react/
-3. 
+
+# Frameworks
+1. https://en.wikipedia.org/wiki/Web_framework 
+2. https://stackoverflow.blog/2020/02/03/is-it-time-for-a-front-end-framework/
+3. https://medium.com/swlh/do-we-really-need-a-front-end-framework-e8c8c3e4df0b
+4. https://www.toptal.com/javascript/choosing-best-front-end-framework
+5. https://www.youtube.com/watch?v=lYWYWyX04JI
+
+# Angular
+1. https://angularjs.org/
+2. https://www.freecodecamp.org/news/why-is-angularjs-the-most-preferred-framework-for-software-development-5253c2c569c9/
+3. https://en.wikipedia.org/wiki/AngularJS
+4. https://www.edureka.co/blog/why-angularjs/
+
+# React
+1. https://reactjs.org/blog/2013/06/05/why-react.html
+2. https://www.altexsoft.com/blog/engineering/the-good-and-the-bad-of-reactjs-and-react-native/
+3. https://stories.jotform.com/7-reasons-why-you-should-use-react-ad420c634247
+
+# Vue
+1. https://vuejs.org/v2/guide/comparison.html
+2. https://www.altexsoft.com/blog/engineering/pros-and-cons-of-vue-js/
+3. https://vuejs.org/v2/guide/
