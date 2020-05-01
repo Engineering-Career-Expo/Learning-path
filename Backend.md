@@ -2,33 +2,32 @@
 
 Backend
 
------------- Version control systems/repo hosting services -------------
+# Version control systems/repo hosting services 
 
 
---> Books & Documentation
-Pro Git By Scott Chacon, Ben Straub
-https://confluence.atlassian.com/bitbucket
+## Books & Documentation
+- [Pro Git By Scott Chacon, Ben Straub](https://confluence.atlassian.com/bitbucket)
 
---> Articles
+## Articles
 Joe Celko: “Divided We Stand: The SQL of Relational Division”
-https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6
-https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/
-https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/
-https://medium.com/@itswisdomagain/github-101-introduction-to-github-for-newbies-efaf46c88406
+- [link to article 1](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+- [link to article 2](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
+- [link to article 3](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
+- [link to article 4](https://medium.com/@itswisdomagain/github-101-introduction-to-github-for-newbies-efaf46c88406)
 
---> Videos
-https://www.youtube.com/watch?v=SWYqp7iY_Tc
-https://www.youtube.com/watch?v=CRlGDDprdOQ
-https://www.youtube.com/watch?v=oFYyTZwMyAg&t=606s
-https://www.youtube.com/watch?v=x0EYpi38Yp4
+## Videos
+- [video link 1](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [video link 2](https://www.youtube.com/watch?v=CRlGDDprdOQ)
+- [video link 3](https://www.youtube.com/watch?v=oFYyTZwMyAg&t=606s)
+- [video link 4](https://www.youtube.com/watch?v=x0EYpi38Yp4)
 
---> Courses
-https://www.udemy.com/share/101sJc/
-https://www.udacity.com/course/version-control-with-git--ud123
+## Courses
+- [free udemy course](https://www.udemy.com/share/101sJc/)
+- [udacity course](https://www.udacity.com/course/version-control-with-git--ud123)
 
---> Others
-https://guide.freecodecamp.org/git/
-https://www.git-tower.com/blog/on-premise-git-code-hosting/
+## Others
+- [freecodecamp](https://guide.freecodecamp.org/git/)
+- [code hosting](https://www.git-tower.com/blog/on-premise-git-code-hosting/)
 
 
 
