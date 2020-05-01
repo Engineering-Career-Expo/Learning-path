@@ -1,6 +1,6 @@
 # Resources for the Backend Track
 
-Backend
+# Backend
 
 # Version control systems/repo hosting services 
 
@@ -31,70 +31,70 @@ Joe Celko: “Divided We Stand: The SQL of Relational Division”
 
 
 
------------- Databases (Relational and NoSQL) -----------
+# Databases (Relational and NoSQL)
 
 
---> Books & Documentation
+## Books & Documentation
 “AN ILLUSTRATED GUIDE TO THE SQL SELF-JOIN” BY DOROTA WDZIĘCZNA
-https://docs.mongodb.com/manual/
-https://dev.mysql.com/doc/
-https://www.postgresql.org/docs/9.3/sql.html
-http://cassandra.apache.org/doc/latest/
+[mongodb docs](https://docs.mongodb.com/manual/)
+[mysql docs](https://dev.mysql.com/doc/)
+[pstgres docs](https://www.postgresql.org/docs/9.3/sql.html)
+[cassandra docs](http://cassandra.apache.org/doc/latest/)
 
 
---> Articles
-https://learnsql.com/blog/6-ways-can-learn-sql/
-https://www.mongodb.com/nosql-explained
-https://medium.com/xplenty-blog/the-sql-vs-nosql-difference-mysql-vs-mongodb-32c9980e67b2
-https://tapoueh.org/
-https://dzone.com/articles/an-introduction-to-apache-cassandra
-https://dzone.com/articles/10-traits-of-redis
-https://www.compose.com/articles/curated-collection-redis/
+## Articles
+- [Article 1](https://learnsql.com/blog/6-ways-can-learn-sql/)
+- [Article 2](https://www.mongodb.com/nosql-explained)
+- [Article 3](https://medium.com/xplenty-blog/the-sql-vs-nosql-difference-mysql-vs-mongodb-32c9980e67b2)
+- [Article 4](https://tapoueh.org/)
+- [Article 5](https://dzone.com/articles/an-introduction-to-apache-cassandra)
+- [Article 6](https://dzone.com/articles/10-traits-of-redis)
+- [Article 7](https://www.compose.com/articles/curated-collection-redis/)
 
---> Videos
-https://www.youtube.com/watch?v=QwevGzVu_zk
-https://www.youtube.com/watch?v=rRoy6I4gKWU
-https://www.youtube.com/watch?v=uD3p_rZPBUQ
-https://www.youtube.com/watch?v=qI_g07C_Q5I
+## Videos
+- [Video link](https://www.youtube.com/watch?v=QwevGzVu_zk)
+- [Video link](https://www.youtube.com/watch?v=rRoy6I4gKWU)
+- [Video link](https://www.youtube.com/watch?v=uD3p_rZPBUQ)
+- [Video link](https://www.youtube.com/watch?v=qI_g07C_Q5I)
 
---> Courses
-https://university.mongodb.com/courses/catalog
-https://www.udacity.com/course/intro-to-relational-databases--ud197
-
-
---> Others
-https://www.datacamp.com/community/tutorials/beginners-introduction-postgresql
-https://codeburst.io/redis-what-and-why-d52b6829813
+## Courses
+- [Free Course](https://university.mongodb.com/courses/catalog)
+- [Free Course](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 
 
---------------- Design and Development Principles ----------------
+## Others
+- [introduction to postgres](https://www.datacamp.com/community/tutorials/beginners-introduction-postgresql)
+- [redis](https://codeburst.io/redis-what-and-why-d52b6829813)
 
 
---> Books and Documentation
-Head First Design Patterns By Eric Freeman, Elisabeth Freeman, Bert Bates, Kathy Sierra
-Designing Data-Intensive Applications Martin Kleppmann
-Clean Agile: Back to the Basics Robert C. Martin
-Clean Code Robert C. Martin
+# Design and Development Principles 
 
---> Articles
-https://medium.com/sarccom/software-design-principle-1004d918a603
-https://medium.com/@dhkelmendi/solid-principles-made-easy-67b1246bcdf
-https://codingsight.com/indicators-of-problem-design/
-https://medium.com/better-programming/solid-principles-simple-and-easy-explanation-f57d86c47a7f
-https://medium.com/agileactors/4-basic-principles-of-software-engineering-787b495c2870
-https://medium.com/@takeshi.yoshida/a-pretty-good-summary-of-lean-agile-scrum-168cf123748
-https://medium.com/technology-nineleaps/agile-scrum-methodology-300f43ee6f3e
 
---> Videos
-https://www.youtube.com/watch?v=llGgO74uXMI
-https://www.youtube.com/watch?v=llGgO74uXMI
-https://www.youtube.com/watch?v=bmSAYlu0NcY
-https://www.youtube.com/watch?v=6wDoopbtEqk
-https://www.youtube.com/watch?v=lTkL1oIMiaU
-https://www.youtube.com/watch?v=9TycLR0TqFA
-https://www.youtube.com/watch?v=04INB5GRznU
+## Books and Documentation
+- Head First Design Patterns By Eric Freeman, Elisabeth Freeman, Bert Bates, Kathy Sierra
+- Designing Data-Intensive Applications Martin Kleppmann
+- Clean Agile: Back to the Basics Robert C. Martin
+- Clean Code Robert C. Martin
 
---> Courses
+## Articles
+- [Link to article](https://medium.com/sarccom/software-design-principle-1004d918a603)
+- [Link to article](https://medium.com/@dhkelmendi/solid-principles-made-easy-67b1246bcdf)
+- [Link to article](https://codingsight.com/indicators-of-problem-design/)
+- [Link to article](https://medium.com/better-programming/solid-principles-simple-and-easy-explanation-f57d86c47a7f)
+- [Link to article](https://medium.com/agileactors/4-basic-principles-of-software-engineering-787b495c2870)
+- [Link to article](https://medium.com/@takeshi.yoshida/a-pretty-good-summary-of-lean-agile-scrum-168cf123748)
+- [Link to article](https://medium.com/technology-nineleaps/agile-scrum-methodology-300f43ee6f3e)
+
+## Videos
+-[Video link](https://www.youtube.com/watch?v=llGgO74uXMI)
+-[Video link](https://www.youtube.com/watch?v=llGgO74uXMI)
+-[Video link](https://www.youtube.com/watch?v=bmSAYlu0NcY)
+-[Video link](https://www.youtube.com/watch?v=6wDoopbtEqk)
+-[Video link](https://www.youtube.com/watch?v=lTkL1oIMiaU)
+-[Video link](https://www.youtube.com/watch?v=9TycLR0TqFA)
+-[Video link](https://www.youtube.com/watch?v=04INB5GRznU)
+
+## Courses
 https://learn.particular.net/courses/adsd-online-free
 https://www.coursera.org/specializations/software-design-architecture
 https://www.edx.org/course/software-construction-object-oriented-design?source=aw&awc=6798_1588111638_7d3cf937175158250d972723bf704f55&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=427859_Digital+Defynd
