@@ -94,10 +94,10 @@ Joe Celko: “Divided We Stand: The SQL of Relational Division”
 -[Video link](https://www.youtube.com/watch?v=9TycLR0TqFA)
 -[Video link](https://www.youtube.com/watch?v=04INB5GRznU)
 
-## Courses
-https://learn.particular.net/courses/adsd-online-free
-https://www.coursera.org/specializations/software-design-architecture
-https://www.edx.org/course/software-construction-object-oriented-design?source=aw&awc=6798_1588111638_7d3cf937175158250d972723bf704f55&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=427859_Digital+Defynd
+ Courses
+- [link to cousre](https://learn.particular.net/courses/adsd-online-free)
+- [link to cousre](https://www.coursera.org/specializations/software-design-architecture)
+- [link to cousre](https://www.edx.org/course/software-construction-object-oriented-design?source=aw&awc=6798_1588111638_7d3cf937175158250d972723bf704f55&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=427859_Digital+Defynd)
 
 
 --> Others
