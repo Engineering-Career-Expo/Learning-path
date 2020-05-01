@@ -100,56 +100,54 @@ Joe Celko: “Divided We Stand: The SQL of Relational Division”
 - [link to cousre](https://www.edx.org/course/software-construction-object-oriented-design?source=aw&awc=6798_1588111638_7d3cf937175158250d972723bf704f55&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=427859_Digital+Defynd)
 
 
---> Others
+
+# Websockets, Web servers, Docker
 
 
--------------- Websockets, Web servers, Docker ---------------
-
-
---> Books & Documentation
+##3 Books & Documentation
 Wireless Communications and Networks - William Stallings
-https://pusher.com/docs
-https://socket.io/docs/
-https://docs.docker.com/
+- [Open software docs](https://pusher.com/docs)
+- [Open software docs](https://socket.io/docs/)
+- [Open software docs](https://docs.docker.com/)
 
 
---> Articles
-https://www.javaworld.com/article/2071232/9-killer-uses-for-websockets.html
-https://www.ably.io/concepts/websockets
-https://www.ably.io/concepts/socketio
-https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server
-https://help.dreamhost.com/hc/en-us/articles/215945987-Web-server-performance-comparison
-https://medium.com/from-the-scratch/http-server-what-do-you-need-to-know-to-build-a-simple-http-server-from-scratch-d1ef8945e4fa
-https://medium.com/@gabriellamedas/the-http-server-explained-c41380307917
-https://medium.com/@sanchit0496/what-is-a-web-server-different-types-of-web-servers-c0bd1a1b4b43
-https://medium.com/@jovanshernandez/introduction-to-apache-web-server-2138af643039
-https://medium.com/swlh/what-exactly-is-docker-1dd62e1fde38
-https://medium.com/better-programming/a-beginners-guide-to-docker-4915d691b972
-https://towardsdatascience.com/deploy-a-nodejs-microservices-to-a-docker-swarm-cluster-docker-from-zero-to-hero-464fa1369ea0
-https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b
-https://medium.com/faun/the-missing-introduction-to-containerization-de1fbb73efc5
-https://medium.com/hmif-itb/introduction-to-application-containerization-1a6df386309e
+## Articles
+-[Article link](https://www.javaworld.com/article/2071232/9-killer-uses-for-websockets.html)
+-[Article link](https://www.ably.io/concepts/websockets)
+-[Article link](https://www.ably.io/concepts/socketio)
+-[Article link](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
+-[Article link](https://help.dreamhost.com/hc/en-us/articles/215945987-Web-server-performance-comparison)
+-[Article link](https://medium.com/from-the-scratch/http-server-what-do-you-need-to-know-to-build-a-simple-http-server-from-scratch-d1ef8945e4fa)
+-[Article link](https://medium.com/@gabriellamedas/the-http-server-explained-c41380307917)
+-[Article link](https://medium.com/@sanchit0496/what-is-a-web-server-different-types-of-web-servers-c0bd1a1b4b43)
+-[Article link](https://medium.com/@jovanshernandez/introduction-to-apache-web-server-2138af643039)
+-[Article link](https://medium.com/swlh/what-exactly-is-docker-1dd62e1fde38)
+-[Article link](https://medium.com/better-programming/a-beginners-guide-to-docker-4915d691b972)
+-[Article link](https://towardsdatascience.com/deploy-a-nodejs-microservices-to-a-docker-swarm-cluster-docker-from-zero-to-hero-464fa1369ea0)
+-[Article link](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)
+-[Article link](https://medium.com/faun/the-missing-introduction-to-containerization-de1fbb73efc5)
+-[Article link](https://medium.com/hmif-itb/introduction-to-application-containerization-1a6df386309e)
 
---> Videos
-https://www.youtube.com/watch?v=JhpUch6lWMw
-https://www.youtube.com/watch?v=iYM2zFP3Zn0
-https://www.youtube.com/watch?v=Nu-18s6EeM8
-https://www.youtube.com/watch?v=i5OVcTdt_OU
-https://www.youtube.com/watch?v=8ARodQ4Wlf4
-https://www.youtube.com/watch?v=PjiXkJ6P9pQ
-https://www.youtube.com/watch?v=2uU_dPFwPnk
-https://www.youtube.com/watch?v=TvnZTi_gaNc&t=332s
-https://www.youtube.com/watch?v=u8dW8DrcSmo
-https://www.youtube.com/watch?v=-NzfOhSAZpA
-https://www.youtube.com/watch?v=3SCdzzD0PdQ
+## Videos
+-[video link](https://www.youtube.com/watch?v=JhpUch6lWMw)
+-[video link](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+-[video link](https://www.youtube.com/watch?v=Nu-18s6EeM8)
+-[video link](https://www.youtube.com/watch?v=i5OVcTdt_OU)
+-[video link](https://www.youtube.com/watch?v=8ARodQ4Wlf4)
+-[video link](https://www.youtube.com/watch?v=PjiXkJ6P9pQ)
+-[video link](https://www.youtube.com/watch?v=2uU_dPFwPnk)
+-[video link](https://www.youtube.com/watch?v=TvnZTi_gaNc&t=332s)
+-[video link](https://www.youtube.com/watch?v=u8dW8DrcSmo)
+-[video link](https://www.youtube.com/watch?v=-NzfOhSAZpA)
+-[video link](https://www.youtube.com/watch?v=3SCdzzD0PdQ)
 
---> Courses
-https://www.udacity.com/course/http-web-servers--ud303
-https://www.udemy.com/course/websockets/
-https://www.edx.org/course/fundamentals-containers-kubernetes-red-red-hat-do081x
-https://www.pluralsight.com/courses/docker-getting-started
+# Courses
+-[Course link](https://www.udacity.com/course/http-web-servers--ud303)
+-[Course link](https://www.udemy.com/course/websockets/)
+-[Course link](https://www.edx.org/course/fundamentals-containers-kubernetes-red-red-hat-do081x)
+-[Course link](https://www.pluralsight.com/courses/docker-getting-started)
 
---> Others
-https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
-https://www.freecodecamp.org/news/tag/web-hosting/
-https://www.freecodecamp.org/forum/t/learning-web-server-basics-and-more/215562
+# Others
+-[Web sockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+-[Web hosting](https://www.freecodecamp.org/news/tag/web-hosting/)
+-[Web server basics](https://www.freecodecamp.org/forum/t/learning-web-server-basics-and-more/215562)
