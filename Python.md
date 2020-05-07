@@ -49,3 +49,19 @@ https://deeplearning.mit.edu/
 https://www.fast.ai/2019/01/24/course-v3/
 
 https://m2dsupsdlclass.github.io/lectures-labs/?fbclid=IwAR3V4f2UB9U9lwq9H_Vzr_E6gfUJJ_tDuXnsw0_459hCRVIjOAsm8B_Hd64
+
+## Machine Learning
+
+[A conceptual Introduction To Machine Learning - Article](https://medium.com/ai-in-plain-english/introduction-to-machine-learning-7697477a5e40) <br>
+
+[Data  Analysis With Python - Cognitive Class](https://cognitiveclass.ai/courses/data-analysis-python) <br>
+
+[Machine Learning With Python - Cognitive Class](https://cognitiveclass.ai/courses/machine-learning-with-python) <br>
+
+[Andrew NG's Machine Learning Course](https://www.coursera.org/learn/machine-learning?) <br>
+
+[Sentdex Youtube Playlist](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v) <br>
+
+[Kaggle Courses](https://kaggle.com/learn)<br>
+
+[A- Z Machine Learning Course - Udemy](https://www.udemy.com/share/101vsaBUoZdV1RQHQ=/)
