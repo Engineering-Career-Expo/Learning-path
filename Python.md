@@ -50,6 +50,22 @@ https://www.fast.ai/2019/01/24/course-v3/
 
 https://m2dsupsdlclass.github.io/lectures-labs/?fbclid=IwAR3V4f2UB9U9lwq9H_Vzr_E6gfUJJ_tDuXnsw0_459hCRVIjOAsm8B_Hd64
 
+
+
+# Django
+[Django Full 8 hour course](https://www.youtube.com/watch?v=JT80XhYJdBw)
+
+[Django full 3 hour course](https://www.youtube.com/watch?v=OTmQOjsl0eg)
+
+[Django Udemy course](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/?gclid=CjwKCAjw4871BRAjEiwAbxXi277B-z0zB4-f7MLWP5YbWXFgE8UOjTJgxjvQGhJ42weDLLS-HUwzUBoC4cYQAvD_BwE&matchtype=e&utm_campaign=LongTail_la.EN_cc.ROW&utm_content=deal4584&utm_medium=udemyads&utm_source=adwords&utm_term=_._ag_80687746964_._ad_388036087368_._kw_django+course_._de_c_._dm__._pl__._ti_kwd-821534223501_._li_9076649_._pd__._)
+
+[Django fundamentals Plural Sight course](https://app.pluralsight.com/library/courses/django-fundamentals-update/table-of-contents?aid=7010a000002LUv2AAG)
+
+# Flask
+[Flask full course](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
+
+[Cousera Flask courses](https://www.coursera.org/courses?query=flask)
+
 ## Machine Learning
 
 [A conceptual Introduction To Machine Learning - Article](https://medium.com/ai-in-plain-english/introduction-to-machine-learning-7697477a5e40) <br>
@@ -65,3 +81,4 @@ https://m2dsupsdlclass.github.io/lectures-labs/?fbclid=IwAR3V4f2UB9U9lwq9H_Vzr_E
 [Kaggle Courses](https://kaggle.com/learn)<br>
 
 [A- Z Machine Learning Course - Udemy](https://www.udemy.com/share/101vsaBUoZdV1RQHQ=/)
+
