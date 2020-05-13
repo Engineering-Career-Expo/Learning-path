@@ -4,45 +4,52 @@ This contains Articles, Books, Documentations, and Videos on Frontend Developeme
 
 ## JavaScript
 
+### Articles and Books
+
 1. [Free Code Camp](https://www.freecodecamp.org/)
 2. [w3schools](https://www.w3schools.com/js/)
 3. [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
-4. [JavaScript tutorials for beginners](https://www.youtube.com/watch?v=W6NZfCO5SIk)
-5. [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
-6. [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
-7. [The Modern JavaScript Tutorial](https://javascript.info/)
-8. [JavaScript tutorial from Tutorial point](https://www.tutorialspoint.com/javascript/index.htm)
-9. [You don't know Js](https://github.com/getify/You-Dont-Know-JS)
-10. [JS Books](https://jsbooks.revolunet.com/)
-11. [Eloquent JavaScript](https://eloquentjavascript.net/)
-12. [JavaScript Tutorial for Beginners](https://www.guru99.com/interactive-javascript-tutorials.html)
-13. [Complete JavaScript HandBook](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
+4. [You don't know Js](https://github.com/getify/You-Dont-Know-JS)
+5. [JS Books](https://jsbooks.revolunet.com/)
+6. [Eloquent JavaScript](https://eloquentjavascript.net/)
+7. [JavaScript Tutorial for Beginners](https://www.guru99.com/interactive-javascript-tutorials.html)
+8. [Complete JavaScript HandBook](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
+9. [The Modern JavaScript Tutorial](https://javascript.info/)
+10. [JavaScript tutorial from Tutorialspoint](https://www.tutorialspoint.com/javascript/index.htm)
+
+### Videos
+
+1. [JavaScript tutorials for beginners](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+2. [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+3. [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
+
+
 14. [JavaScript 30](https://javascript30.com/)
 
 ## Version Control System
 
-1. [](https://www.geeksforgeeks.org/version-control-systems/)
-2. [](https://www.atlassian.com/git/tutorials/what-is-version-control)
-3. [](https://www.atlassian.com/git/tutorials/what-is-git)
-4. [](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
-5. [](https://codeburst.io/git-and-github-in-a-nutshell-b0a3cc06458f)
-6. [](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
-7. [](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+1. [All about Version Control System](https://www.geeksforgeeks.org/version-control-systems/)
+2. [What-is Version Control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
+3. [What is Git?](https://www.atlassian.com/git/tutorials/what-is-git)
+4. [Git Cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+5. [Git and Github in a nutshell](https://codeburst.io/git-and-github-in-a-nutshell-b0a3cc06458f)
+6. [Git and Github for beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+7. [Getting started with Git and Github](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 8. [](https://encrypted-vtbn1.gstatic.com/video?q=tbn:ANd9GcS7CBzFjcbTCkIGH0EK6Y9i97OHyMTbVS1sSw8qbaUvY3_FviQK)
 9. [](https://www.youtube.com/watch?v=xuB1Id2Wxak)
-10. [](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/)
-11. [](https://hackernoon.com/step-by-step-guide-to-push-your-first-project-on-github-fec1dce574f)
+10. [Freecodecamp beginners guide to Git and Github](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/)
+11. [Step by Step guide to push your first project on Github](https://hackernoon.com/step-by-step-guide-to-push-your-first-project-on-github-fec1dce574f)
 12. [](http://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html)
 13. [](https://www.atlassian.com/)
-14. [](https://www.git-tower.com/blog/git-hosting-services-compared/)
+14. [Git hosting services](https://www.git-tower.com/blog/git-hosting-services-compared/)
 
 ## Hosting
 
-1. [](https://www.netlify.com/)
+1. [Netlify](https://www.netlify.com/)
 2. [](https://www.youtube.com/watch?v=mT5siI19gtc)
 3. [](https://www.youtube.com/watch?v=hBQlCtfRmqs)
 4. [](https://flaviocopes.com/netlify/)
-5. [](https://www.heroku.com/)
+5. [Heroku](https://www.heroku.com/)
 6. [](https://www.youtube.com/watch?v=aUW5GAFhu6s)
 7. [](https://aws.amazon.com/websites/)
 8. [](https://aws.amazon.com/getting-started/hands-on/host-static-website/)
@@ -53,13 +60,13 @@ This contains Articles, Books, Documentations, and Videos on Frontend Developeme
 ## PWA
 
 1. [](https://frontendmasters.com/courses/service-workers/)
-2. [](https://frontendmasters.com/courses/progressive-web-apps/)
-3. [](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+2. [Frontendmasters Progressive Web Apps](https://frontendmasters.com/courses/progressive-web-apps/)
+3. [MDN Progressive Web Apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 4. [](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
 
 ## Gatsby
 
-1. [](https://www.gatsbyjs.org/)
+1. [Gatsby](https://www.gatsbyjs.org/)
 2. [](https://frontendmasters.com/courses/gatsby/)
 3. [](https://frontendmasters.com/courses/intermediate-gatsby/)
 4. [](https://www.youtube.com/watch?v=8t0vNu2fCCM)
@@ -82,7 +89,7 @@ This contains Articles, Books, Documentations, and Videos on Frontend Developeme
 1. [](https://angularjs.org/)
 2. [](https://www.freecodecamp.org/news/why-is-angularjs-the-most-preferred-framework-for-software-development-5253c2c569c9/)
 3. [](https://en.wikipedia.org/wiki/AngularJS)
-4. [](https://www.edureka.co/blog/why-angularjs/)
+4. [Why Angularjs ?](https://www.edureka.co/blog/why-angularjs/)
 
 ### React
 
@@ -93,5 +100,5 @@ This contains Articles, Books, Documentations, and Videos on Frontend Developeme
 ### Vue
 
 1. [](https://vuejs.org/v2/guide/comparison.html)
-2. [](https://www.altexsoft.com/blog/engineering/pros-and-cons-of-vue-js/)
+2. [Pros and Cons of Vue Js](https://www.altexsoft.com/blog/engineering/pros-and-cons-of-vue-js/)
 3. [](https://vuejs.org/v2/guide/)

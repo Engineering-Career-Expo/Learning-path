@@ -4,18 +4,18 @@ This contains Articles, Books, Documentations, and Videos on Python and its feat
 
 ## Introduction to Python
 
-1. <https://hyperskill.org/onboarding?track=python>
-2. <https://pythonprogramming.net/python-fundamental-tutorials/>
-3. <https://www.udacity.com/course/programming-foundations-with-python--ud036>
-4. <https://www.coursera.org/learn/python3>
-5. <https://docs.python.org/3/tutorial/index.html>
-6. <https://learnxinyminutes.com/docs/python3/>
-7. <https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6>
-8. <https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017_2/course/>
-9. <https://developers.google.com/edu/python/>
-10. <https://www.coursera.org/learn/python?action=enroll>
-11. <https://www.udacity.com/course/introduction-to-python--ud1110>
-12. <https://pythonprogramming.net/python-fundamental-tutorials/>
+1. [](https://hyperskill.org/onboarding?track=python)
+2. [](https://pythonprogramming.net/python-fundamental-tutorials/)
+3. [](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+4. [](https://www.coursera.org/learn/python3)
+5. [](https://docs.python.org/3/tutorial/index.html)
+6. [](https://learnxinyminutes.com/docs/python3/)
+7. [](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+8. [](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017_2/course/)
+9. [](https://developers.google.com/edu/python/)
+10. [](https://www.coursera.org/learn/python?action=enroll)
+11. [](https://www.udacity.com/course/introduction-to-python--ud1110)
+12. [](https://pythonprogramming.net/python-fundamental-tutorials/)
 
 ## Frameworks
 
@@ -55,13 +55,13 @@ This contains Articles, Books, Documentations, and Videos on Python and its feat
 
 ### Deep Learning
 
-1. <https://cognitiveclass.ai/courses/introduction-deep-learning>
-2. <https://cognitiveclass.ai/courses/deep-learning-tensorflow>
-3. <https://www.coursera.org/learn/neural-networks-deep-learning?>
-4. <https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187>
-5. <http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/>
-6. <https://courses.edx.org/courses/course-v1:Microsoft+DAT236x+1T2019a/course/?utm_content=c4a08550-abeb-415c-9af4-7f853b5b0fdf&utm_medium=email&utm_campaign=recurringnudge_day10&utm_source=schedules&utm_term=course-v1%3AMicrosoft%2BDAT236x%2B1T2019a>
-7. <https://bit.ly/2tjFNdA>
-8. <https://deeplearning.mit.edu/>
-9. <https://www.fast.ai/2019/01/24/course-v3/>
-10. <https://m2dsupsdlclass.github.io/lectures-labs/?fbclid=IwAR3V4f2UB9U9lwq9H_Vzr_E6gfUJJ_tDuXnsw0_459hCRVIjOAsm8B_Hd64>
+1. [](https://cognitiveclass.ai/courses/introduction-deep-learning)
+2. [](https://cognitiveclass.ai/courses/deep-learning-tensorflow)
+3. [](https://www.coursera.org/learn/neural-networks-deep-learning?)
+4. [](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+5. [](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
+6. [](https://courses.edx.org/courses/course-v1:Microsoft+DAT236x+1T2019a/course/?utm_content=c4a08550-abeb-415c-9af4-7f853b5b0fdf&utm_medium=email&utm_campaign=recurringnudge_day10&utm_source=schedules&utm_term=course-v1%3AMicrosoft%2BDAT236x%2B1T2019a)
+7. [](https://bit.ly/2tjFNdA)
+8. [](https://deeplearning.mit.edu/)
+9. [](https://www.fast.ai/2019/01/24/course-v3/)
+10. [](https://m2dsupsdlclass.github.io/lectures-labs/?fbclid=IwAR3V4f2UB9U9lwq9H_Vzr_E6gfUJJ_tDuXnsw0_459hCRVIjOAsm8B_Hd64)
