@@ -6,30 +6,18 @@ This contains Articles, Books, Documentations, and Videos on both React Native  
 
 ## Intallations
 
-1. [https://reactnative.dev/docs/environment-setup](https://reactnative.dev/docs/environment-setup) - *Select React Native CLI Quickstart*
-2. [](https://reactnative.dev/docs/running-on-device)
+1. [Selecting the developement environment](https://reactnative.dev/docs/environment-setup) - *Select React Native CLI Quickstart*
+2. [Running on Device](https://reactnative.dev/docs/running-on-device)
+3. [Official API doc](https://reactnative.dev/docs/components-and-apis)
 
 ## Beginner
 
 ### Things to learn
 
-- **Learn about the basic components of react-native**
+1. [Introduction to React Native](https://reactnative.dev/docs/getting-started)
+2. [Learn the Basics](https://reactnative.dev/docs/tutorial)
 
-1. [](https://reactnative.dev/docs/getting-started)
-2. [](https://www.youtube.com/watch?v=Hf4MJH0jDb4)
-
-- **Difference between props and states**
-
-1. [](https://reactnative.dev/docs/tutorial)
-2. [](https://www.youtube.com/watch?v=Hf4MJH0jDb4)
-
-- **Understanding layout with flexbox**
-
-1. [](https://reactnative.dev/docs/flexbox)
-
-- **Get your familiar with react native APIs**
-
-Official API doc - [](https://reactnative.dev/docs/components-and-apis)
+1. [Layout with Flexbox](https://reactnative.dev/docs/flexbox)
 
 ### Practice projects
 
