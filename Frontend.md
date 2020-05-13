@@ -90,15 +90,17 @@ This contains Articles, Books, Documentations, and Videos on Frontend Developeme
 
 ## GraphQL - Client-side
 
-1. [](https://frontendmasters.com/courses/client-graphql-react/)
-2. [](https://www.apollographql.com/docs/react/)
+1. [Client-Side GraphQL in React](https://frontendmasters.com/courses/client-graphql-react/)
+2. [Apollo Client](https://www.apollographql.com/docs/react/)
 
 ## Frameworks (Angular, React, and Vue)
 
-1. [](https://en.wikipedia.org/wiki/Web_framework)
-2. [](https://stackoverflow.blog/2020/02/03/is-it-time-for-a-front-end-framework/)
-3. [](https://medium.com/swlh/do-we-really-need-a-front-end-framework-e8c8c3e4df0b)
-4. [](https://www.toptal.com/javascript/choosing-best-front-end-framework)
+### Articles
+
+1. [Web Framework](https://en.wikipedia.org/wiki/Web_framework)
+2. [Does your web app need a front-end framework?](https://stackoverflow.blog/2020/02/03/is-it-time-for-a-front-end-framework/)
+3. [Do We Really Need a Front-end Framework?](https://medium.com/swlh/do-we-really-need-a-front-end-framework-e8c8c3e4df0b)
+4. [How to Choose the Best Front-end Framework](https://www.toptal.com/javascript/choosing-best-front-end-framework)
 
 ### Videos
 
@@ -106,19 +108,22 @@ This contains Articles, Books, Documentations, and Videos on Frontend Developeme
 
 ### Angular
 
-1. [](https://angularjs.org/)
-2. [](https://www.freecodecamp.org/news/why-is-angularjs-the-most-preferred-framework-for-software-development-5253c2c569c9/)
-3. [](https://en.wikipedia.org/wiki/AngularJS)
-4. [Why Angularjs ?](https://www.edureka.co/blog/why-angularjs/)
+1. [AngulaJs official website](https://angularjs.org/)
+2. [AngularJS](https://en.wikipedia.org/wiki/AngularJS)
+3. [Why AngularJS?](https://www.edureka.co/blog/why-angularjs/)
+
+### Videos
+
+1. [Why AngularJS is my preferred framework for software development](https://www.freecodecamp.org/news/why-is-angularjs-the-most-preferred-framework-for-software-development-5253c2c569c9/)
 
 ### React
 
-1. [](https://reactjs.org/blog/2013/06/05/why-react.html)
-2. [](https://www.altexsoft.com/blog/engineering/the-good-and-the-bad-of-reactjs-and-react-native/)
-3. [](https://stories.jotform.com/7-reasons-why-you-should-use-react-ad420c634247)
+1. [React Doc](https://reactjs.org/blog/2013/06/05/why-react.html)
+2. [The Good and the Bad of ReactJS](https://www.altexsoft.com/blog/engineering/the-good-and-the-bad-of-reactjs-and-react-native/)
+3. [7 Reasons why you should use React](https://stories.jotform.com/7-reasons-why-you-should-use-react-ad420c634247)
 
 ### Vue
 
-1. [](https://vuejs.org/v2/guide/comparison.html)
+1. [Vue.js guide](https://vuejs.org/v2/guide/comparison.html)
 2. [Pros and Cons of Vue Js](https://www.altexsoft.com/blog/engineering/pros-and-cons-of-vue-js/)
-3. [](https://vuejs.org/v2/guide/)
+3. [Comparison with Other Frameworks](https://vuejs.org/v2/guide/)
