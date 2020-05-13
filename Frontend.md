@@ -99,7 +99,10 @@ This contains Articles, Books, Documentations, and Videos on Frontend Developeme
 2. [](https://stackoverflow.blog/2020/02/03/is-it-time-for-a-front-end-framework/)
 3. [](https://medium.com/swlh/do-we-really-need-a-front-end-framework-e8c8c3e4df0b)
 4. [](https://www.toptal.com/javascript/choosing-best-front-end-framework)
-5. [](https://www.youtube.com/watch?v=lYWYWyX04JI)
+
+### Videos
+
+1. [](https://www.youtube.com/watch?v=lYWYWyX04JI)
 
 ### Angular
 
