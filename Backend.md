@@ -5,7 +5,7 @@ This contains Articles, Books, Documentations, and Videos on Backend Developemen
 ## Version control systems/repo hosting services
 
 ### Articles
- 
+
 1. [Git & Github Basics](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 2. [Basics of Git](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
 3. [Introduction to Git](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
@@ -32,7 +32,7 @@ This contains Articles, Books, Documentations, and Videos on Backend Developemen
 1. [The Best Git Tutorial](https://guide.freecodecamp.org/git/)
 2. [Github Hosting Platform Compared](https://www.git-tower.com/blog/on-premise-git-code-hosting/)
 
-### Database (Relational and NoSQL)
+## Database (Relational and NoSQL)
 
 ### Articles
 
