@@ -47,10 +47,10 @@ This contains Articles, Books, Documentations, and Videos on Backend Developemen
 ### Books & Documentation
 
 1. AN ILLUSTRATED GUIDE TO THE SQL SELF-JOIN” BY DOROTA WDZIĘCZNA
-2. [mongodb docs](https://docs.mongodb.com/manual/)
-3. [mysql docs](https://dev.mysql.com/doc/)
-4. [pstgres docs](https://www.postgresql.org/docs/9.3/sql.html)
-5. [cassandra docs](http://cassandra.apache.org/doc/latest/)
+2. [Mongodb docs](https://docs.mongodb.com/manual/)
+3. [Mysql docs](https://dev.mysql.com/doc/)
+4. [Postgresgl docs](https://www.postgresql.org/docs/9.3/sql.html)
+5. [Cassandra docs](http://cassandra.apache.org/doc/latest/)
 
 ### Courses
 
