@@ -66,8 +66,8 @@ This contains Articles, Books, Documentations, and Videos on Backend Developemen
 
 ### Others
 
-1. [introduction to postgres](https://www.datacamp.com/community/tutorials/beginners-introduction-postgresql)
-2. [redis](https://codeburst.io/redis-what-and-why-d52b6829813)
+1. [Introduction to postgres](https://www.datacamp.com/community/tutorials/beginners-introduction-postgresql)
+2. [Redis](https://codeburst.io/redis-what-and-why-d52b6829813)
 
 ## Design and Development Principles
 
