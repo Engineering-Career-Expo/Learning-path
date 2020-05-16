@@ -156,3 +156,9 @@ This contains Articles, Books, Documentations, and Videos on Backend Developemen
 1. [Web sockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 2. [Web hosting](https://www.freecodecamp.org/news/tag/web-hosting/)
 3. [Web server basics](https://www.freecodecamp.org/forum/t/learning-web-server-basics-and-more/215562)
+
+## Hands-On Projects
+
+1. [Beginner Projects]()
+2. [Intermediate Projects](https://developer.github.com/v3/orgs/members/#list-organization-invitation-teams)
+3. [Advanced Projects]()
