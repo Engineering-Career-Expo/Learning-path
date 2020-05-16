@@ -31,7 +31,7 @@ This contains Articles, Books, Documentations, and Videos on Python and its feat
 1. [Flask full course](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
 2. [Cousera Flask courses](https://www.coursera.org/courses?query=flask)
 
-## Data Analysis, MAchine Learning, and Deep Learning with Python
+## Data Analysis, Machine Learning, and Deep Learning with Python
 
 ### Machine Learning
 
