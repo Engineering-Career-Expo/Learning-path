@@ -64,3 +64,9 @@ This contains Articles, Books, Documentations, and Videos on Python and its feat
 4. [Intro to TensorFlow for Deep Learning byTensorFlow](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 5. [Deep Learning for Natural Language Processing:](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
 6. [Deep Learning Explained](https://courses.edx.org/courses/course-v1:Microsoft+DAT236x+1T2019a/course/?utm_content=c4a08550-abeb-415c-9af4-7f853b5b0fdf&utm_medium=email&utm_campaign=recurringnudge_day10&utm_source=schedules&utm_term=course-v1%3AMicrosoft%2BDAT236x%2B1T2019a)
+
+## Hands-On Projects
+
+1. [Beginner Projects](https://docs.google.com/document/d/1aBnEGZFM8i6O8rmPl0CygrkmBFlZ_JRv58GLe1KYq6g/edit?usp=sharing)
+2. [Intermediate Projects](https://docs.google.com/document/d/1Wpg3MlWjiMns_UQ6-dJOxBLmlrtIksG6kwD9eX-xVBE/edit?usp=sharing)
+3. [Advanced Projects](https://docs.google.com/document/d/1zmxtTZ_yz-I0CahXC3MUI6wcVq09kZ7HUn4xPjp6Ubk/edit?usp=sharing)
