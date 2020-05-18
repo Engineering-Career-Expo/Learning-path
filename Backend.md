@@ -159,6 +159,6 @@ This contains Articles, Books, Documentations, and Videos on Backend Developemen
 
 ## Hands-On Projects
 
-1. [Beginner Projects]()
-2. [Intermediate Projects](https://developer.github.com/v3/orgs/members/#list-organization-invitation-teams)
-3. [Advanced Projects]()
+1. [Beginner Projects](https://docs.google.com/document/d/10nl1-gNh6-Ej2pxVAXlUVPQoE6cVxccw57cyMfvtFXo/edit?usp=sharing)
+2. [Intermediate Projects](https://docs.google.com/document/d/1VyKysTcwGlS3R4Vr5mpW9Rxp_R96VxlrBvwTriqvCIc/edit?usp=sharing)
+3. [Advanced Projects](https://docs.google.com/document/d/1P54qdqDQEeobONQqVEg_28Rt4H4wXex1bgiXTFW7h3c/edit?usp=sharing)

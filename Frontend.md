@@ -127,3 +127,9 @@ This contains Articles, Books, Documentations, and Videos on Frontend Developeme
 1. [Vue.js guide](https://vuejs.org/v2/guide/comparison.html)
 2. [Pros and Cons of Vue Js](https://www.altexsoft.com/blog/engineering/pros-and-cons-of-vue-js/)
 3. [Comparison with Other Frameworks](https://vuejs.org/v2/guide/)
+
+## Hands-On Projects
+
+1. [Beginner Projects]()
+2. [Intermediate Projects]()
+3. [Advanced Projects](https://docs.google.com/document/d/1G3kokEPs5JqeBGWw9BdryUMXuzBT3Yr64SdCgm-FvB8/edit?usp=sharing)
