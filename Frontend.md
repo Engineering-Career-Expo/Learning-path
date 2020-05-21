@@ -130,6 +130,6 @@ This contains Articles, Books, Documentations, and Videos on Frontend Developeme
 
 ## Hands-On Projects
 
-1. [Beginner Projects]()
-2. [Intermediate Projects]()
+1. [Beginner Projects](https://docs.google.com/document/d/10GkxiEkZ8tX26ObRjD-2YMTCOVIwRLoIB6IwGSAIDGg/edit?usp=sharing)
+2. [Intermediate Projects](https://docs.google.com/document/d/10sBA0bJRuQ9neL_rbrF07Tus_l2DuE2GErj-167vvMM/edit?usp=sharing)
 3. [Advanced Projects](https://docs.google.com/document/d/1G3kokEPs5JqeBGWw9BdryUMXuzBT3Yr64SdCgm-FvB8/edit?usp=sharing)
