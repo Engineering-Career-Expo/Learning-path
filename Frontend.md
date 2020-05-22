@@ -17,6 +17,7 @@ This contains Articles, Books, Documentations, and Videos on Frontend Developeme
 9. [The Modern JavaScript Tutorial](https://javascript.info/)
 10. [JavaScript tutorial from Tutorialspoint](https://www.tutorialspoint.com/javascript/index.htm)
 11. [JavaScript 30](https://javascript30.com/)
+12. [Books](https://github.com/DSC-Unilag/Books)
 
 ### Videos
 

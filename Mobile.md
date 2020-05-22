@@ -19,6 +19,7 @@ This contains Articles, Books, Documentations, and Videos on both React Native  
 1. [Introduction to React Native](https://reactnative.dev/docs/getting-started)
 2. [Learn the Basics](https://reactnative.dev/docs/tutorial)
 3. [Layout with Flexbox](https://reactnative.dev/docs/flexbox)
+4. [Books](https://github.com/DSC-Unilag/Books)
 
 #### Practice projects
 

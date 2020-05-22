@@ -14,6 +14,7 @@ This contains Articles, Books, Documentations, and Videos on Backend Developemen
 ### Books & Documentation
 
 1. [Pro Git By Scott Chacon, Ben Straub](https://confluence.atlassian.com/bitbucket)
+2. [Books](https://github.com/DSC-Unilag/Books)
 
 ### Courses
 

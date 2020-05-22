@@ -17,6 +17,10 @@ This contains Articles, Books, Documentations, and Videos on Python and its feat
 9. [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017_2/course/)
 10. [Python Fundamental tutotials](https://pythonprogramming.net/python-fundamental-tutorials/)
 
+### Books
+
+1. [Books](https://github.com/DSC-Unilag/Books)
+
 ## Frameworks
 
 ### Django

@@ -4,12 +4,13 @@ This contains resources on general knowledge of modelling, Blender, Autodesk May
 
 ## General
 
-### Articles
+### Articles and Books
 
 1. [Pureref is a must-use reference image tool for all creatives](https://greyscalegorilla.com/2018/04/pureref-reference-image-app)
 2. [Computer Animation](https://en.wikipedia.org/wiki/Computer_animation)
 3. [10 Must-Have Skills for All Engineers](https://www.machinedesign.com/community/article/21835760/10-musthave-skills-for-all-engineers)
 4. [What industries use 3D modeling services and how does it benefit companies?](https://www.cadcrowd.com/blog/what-industries-use-3d-modeling-services-and-how-does-it-benefit-companies/)
+5. [Books](https://github.com/DSC-Unilag/Books)
 
 ## Blender
 
