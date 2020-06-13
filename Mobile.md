@@ -112,6 +112,8 @@ This contains Articles, Books, Documentations, and Videos on both React Native  
 
 1. Build the next billion dollar idea
 
-## Intoduction to Dart and Flutter
+## Dart
+
+### Introduction to Dart and Flutter
 
 1. [Introduction to Flutter Development using Dart](https://www.appbrewery.co/courses/851555/)
